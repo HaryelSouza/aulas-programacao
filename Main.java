@@ -10,7 +10,7 @@ public class Main {
         System.out.print("Digite sua idade: ");
         int idade = sc.nextInt();
 
-        System.out.println("Olá, " + nome + "! Você tem " + idade + " anos.");
+        System.out.println("Olá, tudo bem, " + nome + "! Você tem " + idade + " anos.");
 
         sc.close();
     }
